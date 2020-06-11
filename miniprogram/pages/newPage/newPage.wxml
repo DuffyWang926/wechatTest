@@ -1,0 +1,3 @@
+<view class="container">
+  <web-view src="https://www.baidu.com" bindmessage="handleGetMessage" />
+</view>
